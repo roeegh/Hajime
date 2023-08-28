@@ -2,7 +2,7 @@
 
 Submitted by: **Randeep Singh**
 
-**Hajime** is an app that provides a self introduction for myself. It also changes the background color of the app when a user taps a button. It also has buttons that link to my Twitter and Github profiles.
+**Hajime** is an app that provides a self-introduction for myself. It also changes the background color of the app when a user taps a button. It also has buttons that link to my Twitter and Github profiles.
 
 Time spent: **8** hours spent in total
 
@@ -17,9 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/YhcHSQJ.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [Gifski](https://sindresorhus.com/gifski)
+https://github.com/roeegh/Hajime/assets/62909766/45e7abaa-2411-45d8-adbf-8d09db5b51f4
 
 ## App Brainstorming (Step 4)
 
